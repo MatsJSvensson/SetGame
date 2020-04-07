@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<ArrayOfHighScore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="HighScores.Scores">
+  <HighScore>
+    <points>663</points>
+    <name>Mats</name>
+  </HighScore>
+  <HighScore>
+    <points>642</points>
+    <name>Mats</name>
+  </HighScore>
+  <HighScore>
+    <points>584</points>
+    <name>Trysil</name>
+  </HighScore>
+  <HighScore>
+    <points>561</points>
+    <name>Mädz</name>
+  </HighScore>
+  <HighScore>
+    <points>554</points>
+    <name>Mats</name>
+  </HighScore>
+  <HighScore>
+    <points>509</points>
+    <name>Mats</name>
+  </HighScore>
+  <HighScore>
+    <points>498</points>
+    <name>Mats</name>
+  </HighScore>
+  <HighScore>
+    <points>468</points>
+    <name>Mats</name>
+  </HighScore>
+  <HighScore>
+    <points>430</points>
+    <name>Mats Trysil</name>
+  </HighScore>
+  <HighScore>
+    <points>384</points>
+    <name>Mats</name>
+  </HighScore>
+  <HighScore>
+    <points>370</points>
+    <name>Mädz</name>
+  </HighScore>
+  <HighScore>
+    <points>363</points>
+    <name>Mats</name>
+  </HighScore>
+  <HighScore>
+    <points>358</points>
+    <name>Guest</name>
+  </HighScore>
+  <HighScore>
+    <points>253</points>
+    <name>Mats</name>
+  </HighScore>
+  <HighScore>
+    <points>243</points>
+    <name>Watzie</name>
+  </HighScore>
+  <HighScore>
+    <points>116</points>
+    <name>Trysil</name>
+  </HighScore>
+  <HighScore>
+    <points>31</points>
+    <name>Erik B</name>
+  </HighScore>
+  <HighScore>
+    <points>-27</points>
+    <name>Erik B</name>
+  </HighScore>
+  <HighScore>
+    <points>-67</points>
+    <name>Guest</name>
+  </HighScore>
+  <HighScore>
+    <points>-136</points>
+    <name>Anton</name>
+  </HighScore>
+  <HighScore>
+    <points>-305</points>
+  </HighScore>
+  <HighScore>
+    <points>-306</points>
+    <name>Erik B</name>
+  </HighScore>
+  <HighScore>
+    <points>-448</points>
+    <name>Erik B</name>
+  </HighScore>
+  <HighScore>
+    <points>-827</points>
+    <name>Erik B</name>
+  </HighScore>
+  <HighScore>
+    <points>-1365</points>
+    <name>Erik B</name>
+  </HighScore>
+</ArrayOfHighScore>
