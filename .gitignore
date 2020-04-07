@@ -1,0 +1,3 @@
+bin/
+!highscores.xml
+obj/

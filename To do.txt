@@ -1,0 +1,2 @@
+Add cards instead of shuffle
+Show possible combination before shuffle (if applicable)
